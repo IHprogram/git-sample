@@ -1,1 +1,1 @@
-# git-sample
+# git-sample　安彦利咲
